@@ -38,6 +38,8 @@ Thanks for your feedback and support!
 
 # [Download Page](https://modrinth.com/user/shadowdara)
 
+# [Notion Hosted Webpage](https://vanilla-wood-279.notion.site/Shadowdara-s-Minecraft-Packs-2128fc252ccd8029b705e9b1189d5eb4)
+
 ---
 
 ;)
