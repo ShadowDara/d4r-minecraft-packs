@@ -9,9 +9,9 @@ you can even hire me for a personal project if you want to :)
 
 ## Where can i download them?
 
-You can Download my projects free without paying money on Modrinth, a website to upload your Minecraft Packs.
+**[on my Modrinth!](https://modrinth.com/user/shadowdara)**
 
-[ShadowDara - Modrinth](https://modrinth.com/user/shadowdara)
+You can Download my projects free without paying money on Modrinth, a website to upload your Minecraft Packs.
 
 # I MAKE:
 <div align="center">
@@ -35,12 +35,6 @@ You can submit the bug via multiple ways.
 Just choose what’s the most comfortable for you
 
 And do completly the same for full / personal pack Ideas!
-
-# More
-
-[Linktree](https://linktr.ee/shadowdara)
-
-[Modrinth](https://modrinth.com/user/shadowdara)
 
 # Some of my Projects
 
