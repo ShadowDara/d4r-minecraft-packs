@@ -9,7 +9,7 @@ you can even hire me for a personal project if you want to :)
 
 ## Where can i download them?
 
-**[on my Modrinth!](https://modrinth.com/user/shadowdara)**
+### **[on my Modrinth!](https://modrinth.com/user/shadowdara)**
 
 You can Download my projects free without paying money on Modrinth, a website to upload your Minecraft Packs.
 
